@@ -5,8 +5,8 @@ AIONでは、WebRTCはブラウザで利用可能な API として用いられ�
 
 このエッジ顔認証チェックイン・チェックアウトシステムの関連リソースは、WebRTC以外に、次の通りです。   
  
-*  aion-core / kubernetes master node などの主要リソース   
-*  redis-cluster(kube)、mysql-kube などの主要DB   
+*  [aion-core](https://github.com/latonaio/aion-core) / kubernetes master node などの主要リソース   
+*  [redis-cluster(kube)](https://github.com/latonaio/redis-cluster-kube)、[mysql-kube](https://github.com/latonaio/mysql-kube) などの主要DB   
 *  ui-frontend(kube)（Reactフレームワーク）   
 *  ui-backend(kube)（JSフレームワーク）   
 *  register-an-image-to-face-api-kube   
